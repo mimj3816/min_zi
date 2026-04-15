@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Minji Kang's Site"
 title_separator          : "-"
-name                     : &name "Minji Kang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Minji Kang"
+description              : "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mimj3816.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/min_zi" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "M.S. student at Dongguk University focusing on deep learning and data-driven modeling."
   location         : "Seoul, South Korea"
-  employer         : "Dongguk University lolololo"
+  employer         : "Dongguk University"
   uri              : # URL
   email            : "mimj3816@gmail.com", "rkdalswl@dgu.ac.kr"
 
