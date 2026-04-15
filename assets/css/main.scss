@@ -45,3 +45,17 @@
 .page__content {
   min-height: 85vh;
 }
+
+html, body {
+  height: 100%;
+}
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page__content {
+  flex: 1;
+}
